@@ -1,7 +1,8 @@
 import AuthFrom from "@/components/ui/AuthFrom";
 import React from "react";
 
-const SignUp = () => {
+const SignUp = async () => {
+
   return (
     <section className="flex-center size-full max-sm:px-6">
       <AuthFrom type="sign-up" />
