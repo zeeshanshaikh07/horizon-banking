@@ -1,4 +1,5 @@
-import AuthFrom from "@/components/ui/AuthFrom";
+// import AuthFrom from "@/components/ui/AuthFrom";
+import AuthFrom from "@/components/AuthFrom";
 import React from "react";
 
 const SignUp = async () => {
